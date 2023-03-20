@@ -1,0 +1,7 @@
+E:\Лунгу проекты\classwork\bin\Debug\classwork.exe.config
+E:\Лунгу проекты\classwork\bin\Debug\classwork.exe
+E:\Лунгу проекты\classwork\bin\Debug\classwork.pdb
+E:\Лунгу проекты\classwork\obj\Debug\classwork.csproj.AssemblyReference.cache
+E:\Лунгу проекты\classwork\obj\Debug\classwork.csproj.CoreCompileInputs.cache
+E:\Лунгу проекты\classwork\obj\Debug\classwork.exe
+E:\Лунгу проекты\classwork\obj\Debug\classwork.pdb
